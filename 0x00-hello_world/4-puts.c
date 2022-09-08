@@ -3,6 +3,7 @@
 /**
  * main - Printing in C
  *
+ * Description: A program that prints programming is like building a multilingual puzzle
  * Return - Always 0 (Successful code check)
  */
 
