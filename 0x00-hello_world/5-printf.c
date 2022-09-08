@@ -3,7 +3,8 @@
  * main - prints
  *
  * Description: using the main function
- * this programme prints exactly with proper grammar, but the outcome is a piece of art,
+ * this programme prints exactly with proper grammar,
+ * but the outcome is a piece of art,
  * Return: 0
  */
 int main(void)
