@@ -3,9 +3,9 @@
 /**
  * main - Printing in C
  *
- * Description: A program that prints
- * programming is like building a multilingual puzzle
- * Return - Always 0 (Successful code check)
+ * Description: using the main function
+ * this program prints "Programming is like building a multilingual puzzle
+ * Return: Always 0 (Successful code check)
  */
 
 int main(void)
