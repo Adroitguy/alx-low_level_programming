@@ -7,7 +7,7 @@
  * Description: using the main function
  * the program will assign a random number to the variable
  * n each time it is executed
- * Result: 0
+ * Return: 0
  */
 int main(void)
 {
