@@ -82,3 +82,8 @@ Write a function that copies the string pointed to by src, including the termina
     Return value: the pointer to dest
 
 FYI: The standard library provides a similar function: strcpy. Run man strcpy to learn more.
+10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers (advanced)
+
+11. Don't hate the hacker, hate the code
+#advanced
+
