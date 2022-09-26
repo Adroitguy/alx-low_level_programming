@@ -7,13 +7,14 @@
  *
  * @a: pointer to start of matrix
  * @size: width of the matrix column
- *
+ * Description: Prints the sum of the two diagonals of a
+ * square matrix of integers
  * Return: void
  */
 
 void print_diagsums(int *a, int size)
 {
-	int i, j, p, l = 0, r = 0;
+	int i, j, p,  = 0, r = 0;
 
 	for (i = 0; i < size; i++)
 	{
